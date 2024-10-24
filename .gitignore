@@ -1,2 +1,4 @@
 docs/index.html.old
 src/*
+.DS_Store
+docs/blogtest.html
